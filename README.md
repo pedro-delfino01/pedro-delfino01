@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Pedro Delfino
 
-<!--
-**pedro-delfino01/pedro-delfino01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil GitHub!  
+Sou desenvolvedor especializado em RPA, com experiência em automação de testes web e mobile. Apaixonado por tecnologia, adoro transformar tarefas repetitivas em soluções automáticas eficientes.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **Profissão**: Desenvolvedor RPA
+- 🧑‍💻 **Automação de Testes**: Web & Mobile
+- 🐍 **Principais Skills**: Python, Robot Framework
+- 🎮 **Hobbies**: Jogos, computadores e carros!
+
+## 🌟 Projeto em destaque
+
+- [Top100 músicas mais ouvidas](https://github.com/pedro-delfino01/rpa_genius)  
+  Um projeto para coletar as 100 músicas mais ouvidas do momento. Confira no repositório!
+
+## 📫 Contato e redes
+
+- [LinkedIn](https://br.linkedin.com/in/pedro-delfino-21a6b1342?trk=people-guest_people_search-card)
+
+---
+
+> “Automatizar é libertar tempo para inovar!”
+
+Sinta-se à vontade para explorar meus repositórios e entrar em contato! 🚗💡
